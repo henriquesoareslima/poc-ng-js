@@ -1,0 +1,16 @@
+{
+  "name": "app-angularjs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.1.0",
+    "angular": "^1.8.3",
+    "http-server": "^14.1.1"
+  }
+}
